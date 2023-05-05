@@ -46,3 +46,27 @@ Programming Exercises:
 9. Implement a divide-and-conquer algorithm for finding the closest pair of points in 2D space.
 
 10. Implement a divide-and-conquer algorithm for sorting a linked list.
+
+# Unit-3: Dynamic Programming:
+
+Programming Exercises:
+
+1. Implement the Fibonacci sequence using dynamic programming. Analyze the time complexity of your implementation and compare it with the time complexity of a recursive implementation.
+
+2. Implement the longest common subsequence problem using dynamic programming. Analyze the time and space complexity of your implementation and compare it with the time and space complexity of a naive recursive implementation.
+
+3. Implement the knapsack problem using dynamic programming. Analyze the time and space complexity of your implementation and compare it with the time and space complexity of a greedy algorithm.
+
+4. Implement the rod-cutting problem using dynamic programming. Analyze the time and space complexity of your implementation and compare it with the time and space complexity of a naive recursive implementation.
+
+5. Implement the matrix chain multiplication problem using dynamic programming. Analyze the time and space complexity of your implementation and compare it with the time and space complexity of a naive recursive implementation.
+
+6. Develop a dynamic programming algorithm for the edit distance problem. Analyze the time and space complexity of your implementation and compare it with the time and space complexity of a naive recursive implementation.
+
+7. Develop a dynamic programming algorithm for the coin change problem. Analyze the time and space complexity of your implementation and compare it with the time and space complexity of a greedy algorithm.
+
+8. Implement a dynamic programming algorithm to find the maximum sum subarray. Analyze the time and space complexity of your implementation and compare it with the time and space complexity of a naive brute-force approach.
+
+9. Develop a dynamic programming algorithm to find the longest increasing subsequence. Analyze the time and space complexity of your implementation and compare it with the time and space complexity of a brute-force approach.
+
+10. Create a flowchart for a dynamic programming algorithm that solves the longest common substring problem. Analyze the time and space complexity of the algorithm and compare it with the time and space complexity of a brute-force approach.
